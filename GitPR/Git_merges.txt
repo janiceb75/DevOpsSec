@@ -1,0 +1,4 @@
+#This is a file to show tracked changes that I plan to merge
+I like to update my changes to the base branch by merging my files
+#This is a file which will help me to remember commands
+With more practice, I will get better
