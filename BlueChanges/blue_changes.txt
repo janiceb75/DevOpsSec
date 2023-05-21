@@ -1,2 +1,4 @@
 #This is the text file for blue
 Learning how to rebase and merge
+#this is the second line
+Second line
