@@ -4,3 +4,6 @@ git config --global credential.helper store
 git add .
 #this is the new line
 Adding another line
+#this is a new line
+Adding for practice
+
