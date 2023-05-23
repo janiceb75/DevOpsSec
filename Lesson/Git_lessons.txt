@@ -1,0 +1,6 @@
+#These are some notes from my  lessons
+
+5-18 DevSecOps
+1.	Open Github, Pycharm, and Git
+2.	Git is the command line program we use to track changes.  It is version control software.  It can be used to track changes to files
+3.	PyCharm.  Pycharm is an IDE (Integrated Development Environment) built for Python that supports the Git version control system.  We don’t need PyCharm to use Git.  We can just install Git and use it with GITHUB. However, using Pycharm, you can set up your Python projects to use Git and Github so it’s easier to manage changes on both the local machine and remote server.
