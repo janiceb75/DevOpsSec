@@ -1,1 +1,12 @@
 //This is my Jenkins file with code
+pipeline{
+agent any
+stages{
+stage ('checkout'){
+//this is the checkout stage
+}
+
+}
+
+
+}
