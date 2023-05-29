@@ -3,7 +3,10 @@ pipeline{
 agent any
 stages{
 stage ('checkout'){
-//this is the checkout stage
+steps{
+//this is the checkout step
+
+}
 }
 
 }
